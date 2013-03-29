@@ -1,4 +1,4 @@
-node-iot-stack
+iot-stack
 ==============
 
 Software stack for Internet of Things
