@@ -13,7 +13,8 @@
   "main": "index",
   "dependencies": {
     "iwebpp.io": "latest",
-    "serialport": "~1.1.0"    
+    "serialport": "~1.1.0",
+    "node-hid": "~0.2.2"
   },
   "devDependencies": {
     "expect.js": "0.1.x"
