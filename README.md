@@ -1,4 +1,4 @@
 iot-stack
 ==============
 
-Software stack for Internet of Things
+Software stack for Internet of Thing
